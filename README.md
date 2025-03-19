@@ -1,2 +1,2 @@
 # Major
-Diabetc Retinopathy detection using CNN
+Diabetic Retinopathy detection using CNN
